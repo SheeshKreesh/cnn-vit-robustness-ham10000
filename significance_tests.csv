@@ -1,5 +1,0 @@
-Degradation,ViT_F1,CNN_F1,p_value,significance
-Gaussian Noise,0.6188,0.4904,0.125,ns
-Gaussian Blur,0.6069,0.3502,0.125,ns
-Resolution Downsampling,0.5623,0.3394,0.125,ns
-JPEG Compression,0.6639,0.4347,0.125,ns
