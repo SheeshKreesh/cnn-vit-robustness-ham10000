@@ -61,7 +61,7 @@ https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 ## Citation
 If you use this code, please cite:
-[Your Name] et al. "Architectural Robustness to Image Quality Degradation in Dermatological Disease Classification." [Journal/arXiv], 2025.
+[Shirish Arora] et al. "Architectural Robustness to Image Quality Degradation in Dermatological Disease Classification." [Journal/arXiv], 2025.
 
 ## AI Disclosure
 Code development and literature search were assisted by Claude (Anthropic). All experimental design, analysis, and writing were performed by the authors.
