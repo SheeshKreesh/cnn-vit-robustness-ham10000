@@ -27,13 +27,14 @@ This repository contains the experimental notebooks for a systematic robustness 
 
 ## Repository Structure
 ```
-├── skin_lesion_robustness_research.ipynb  # Main experiment (Seed 42)
-├── seed_rerun_with_drive_v2.ipynb         # Multi-seed rerun (Seeds 123, 456)
-└── results/
-    ├── robustness_results.csv             # Seed 42 raw results
-    ├── robustness_stats_final.csv         # Mean ± std across 3 seeds
-    ├── f1_drop_summary.csv                # F1 drop summary table
-    └── significance_tests.csv            # Statistical analysis
+cnn-vit-robustness-ham10000/
+├── README.md
+├── skin_lesion_robustness_research.ipynb
+├── seed_rerun_with_drive_v2.ipynb
+├── f1_drop_summary.csv
+├── robustness_stats_final.csv
+├── robustness_curves_final.png
+└── significance_tests.csv
 ```
 
 ## Requirements
