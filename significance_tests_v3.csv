@@ -1,0 +1,13 @@
+Degradation,Comparison,Model_F1,CNN_F1,p_value,significance
+Gaussian Noise,ViT-Ti vs CNN,0.5695,0.5056,0.25,ns
+Gaussian Noise,ViT-S vs CNN,0.6516,0.5056,0.125,ns
+Gaussian Noise,ViT-B vs CNN,0.6109,0.5056,0.125,ns
+Gaussian Blur,ViT-Ti vs CNN,0.5997,0.4056,0.125,ns
+Gaussian Blur,ViT-S vs CNN,0.5705,0.4056,0.125,ns
+Gaussian Blur,ViT-B vs CNN,0.5842,0.4056,0.125,ns
+Resolution Downsampling,ViT-Ti vs CNN,0.5666,0.3978,0.125,ns
+Resolution Downsampling,ViT-S vs CNN,0.5574,0.3978,0.125,ns
+Resolution Downsampling,ViT-B vs CNN,0.5692,0.3978,0.125,ns
+JPEG Compression,ViT-Ti vs CNN,0.6122,0.4676,0.125,ns
+JPEG Compression,ViT-S vs CNN,0.5992,0.4676,0.125,ns
+JPEG Compression,ViT-B vs CNN,0.6167,0.4676,0.125,ns

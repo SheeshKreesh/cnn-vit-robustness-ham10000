@@ -1,0 +1,141 @@
+Model,Degradation,Class_Code,Class_Name,Clean_F1,Worst_F1,F1_Drop_pp
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Noise,akiec,Actinic Keratoses,0.5589,0.0049,55.4
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Noise,bcc,Basal Cell Carcinoma,0.7332,0.1311,60.2
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Noise,bkl,Benign Keratosis,0.6802,0.1692,51.1
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Noise,df,Dermatofibroma,0.5762,0.0105,56.6
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Noise,mel,Melanoma,0.5952,0.0383,55.7
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Noise,nv,Melanocytic Nevi,0.9165,0.5831,33.3
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Noise,vasc,Vascular Lesions,0.849,0.0194,83.0
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Blur,akiec,Actinic Keratoses,0.5589,0.0,55.9
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Blur,bcc,Basal Cell Carcinoma,0.7332,0.0,73.3
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Blur,bkl,Benign Keratosis,0.6802,0.0027,67.8
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Blur,df,Dermatofibroma,0.5762,0.0,57.6
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Blur,mel,Melanoma,0.5952,0.0877,50.7
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Blur,nv,Melanocytic Nevi,0.9165,0.4722,44.4
+"EfficientFormer-L1 (Hybrid, 11M)",Gaussian Blur,vasc,Vascular Lesions,0.849,0.0598,78.9
+"EfficientFormer-L1 (Hybrid, 11M)",Resolution Downsampling,akiec,Actinic Keratoses,0.5589,0.0,55.9
+"EfficientFormer-L1 (Hybrid, 11M)",Resolution Downsampling,bcc,Basal Cell Carcinoma,0.7332,0.0,73.3
+"EfficientFormer-L1 (Hybrid, 11M)",Resolution Downsampling,bkl,Benign Keratosis,0.6802,0.0245,65.6
+"EfficientFormer-L1 (Hybrid, 11M)",Resolution Downsampling,df,Dermatofibroma,0.5762,0.0,57.6
+"EfficientFormer-L1 (Hybrid, 11M)",Resolution Downsampling,mel,Melanoma,0.5952,0.0474,54.8
+"EfficientFormer-L1 (Hybrid, 11M)",Resolution Downsampling,nv,Melanocytic Nevi,0.9165,0.5542,36.2
+"EfficientFormer-L1 (Hybrid, 11M)",Resolution Downsampling,vasc,Vascular Lesions,0.849,0.0794,77.0
+"EfficientFormer-L1 (Hybrid, 11M)",JPEG Compression,akiec,Actinic Keratoses,0.5589,0.0284,53.0
+"EfficientFormer-L1 (Hybrid, 11M)",JPEG Compression,bcc,Basal Cell Carcinoma,0.7332,0.0827,65.0
+"EfficientFormer-L1 (Hybrid, 11M)",JPEG Compression,bkl,Benign Keratosis,0.6802,0.2218,45.8
+"EfficientFormer-L1 (Hybrid, 11M)",JPEG Compression,df,Dermatofibroma,0.5762,0.0247,55.2
+"EfficientFormer-L1 (Hybrid, 11M)",JPEG Compression,mel,Melanoma,0.5952,0.1727,42.2
+"EfficientFormer-L1 (Hybrid, 11M)",JPEG Compression,nv,Melanocytic Nevi,0.9165,0.6433,27.3
+"EfficientFormer-L1 (Hybrid, 11M)",JPEG Compression,vasc,Vascular Lesions,0.849,0.1578,69.1
+"EfficientNetB0 (CNN, 4M)",Gaussian Noise,akiec,Actinic Keratoses,0.5151,0.0,51.5
+"EfficientNetB0 (CNN, 4M)",Gaussian Noise,bcc,Basal Cell Carcinoma,0.7171,0.0562,66.1
+"EfficientNetB0 (CNN, 4M)",Gaussian Noise,bkl,Benign Keratosis,0.6383,0.0804,55.8
+"EfficientNetB0 (CNN, 4M)",Gaussian Noise,df,Dermatofibroma,0.4693,0.0,46.9
+"EfficientNetB0 (CNN, 4M)",Gaussian Noise,mel,Melanoma,0.5432,0.0035,54.0
+"EfficientNetB0 (CNN, 4M)",Gaussian Noise,nv,Melanocytic Nevi,0.8973,0.7338,16.3
+"EfficientNetB0 (CNN, 4M)",Gaussian Noise,vasc,Vascular Lesions,0.8372,0.0,83.7
+"EfficientNetB0 (CNN, 4M)",Gaussian Blur,akiec,Actinic Keratoses,0.5151,0.0121,50.3
+"EfficientNetB0 (CNN, 4M)",Gaussian Blur,bcc,Basal Cell Carcinoma,0.7171,0.0622,65.5
+"EfficientNetB0 (CNN, 4M)",Gaussian Blur,bkl,Benign Keratosis,0.6383,0.0893,54.9
+"EfficientNetB0 (CNN, 4M)",Gaussian Blur,df,Dermatofibroma,0.4693,0.0,46.9
+"EfficientNetB0 (CNN, 4M)",Gaussian Blur,mel,Melanoma,0.5432,0.0,54.3
+"EfficientNetB0 (CNN, 4M)",Gaussian Blur,nv,Melanocytic Nevi,0.8973,0.5839,31.3
+"EfficientNetB0 (CNN, 4M)",Gaussian Blur,vasc,Vascular Lesions,0.8372,0.0113,82.6
+"EfficientNetB0 (CNN, 4M)",Resolution Downsampling,akiec,Actinic Keratoses,0.5151,0.0101,50.5
+"EfficientNetB0 (CNN, 4M)",Resolution Downsampling,bcc,Basal Cell Carcinoma,0.7171,0.0429,67.4
+"EfficientNetB0 (CNN, 4M)",Resolution Downsampling,bkl,Benign Keratosis,0.6383,0.0988,54.0
+"EfficientNetB0 (CNN, 4M)",Resolution Downsampling,df,Dermatofibroma,0.4693,0.0278,44.2
+"EfficientNetB0 (CNN, 4M)",Resolution Downsampling,mel,Melanoma,0.5432,0.0117,53.2
+"EfficientNetB0 (CNN, 4M)",Resolution Downsampling,nv,Melanocytic Nevi,0.8973,0.569,32.8
+"EfficientNetB0 (CNN, 4M)",Resolution Downsampling,vasc,Vascular Lesions,0.8372,0.0285,80.9
+"EfficientNetB0 (CNN, 4M)",JPEG Compression,akiec,Actinic Keratoses,0.5151,0.0278,48.7
+"EfficientNetB0 (CNN, 4M)",JPEG Compression,bcc,Basal Cell Carcinoma,0.7171,0.0586,65.8
+"EfficientNetB0 (CNN, 4M)",JPEG Compression,bkl,Benign Keratosis,0.6383,0.1265,51.2
+"EfficientNetB0 (CNN, 4M)",JPEG Compression,df,Dermatofibroma,0.4693,0.0,46.9
+"EfficientNetB0 (CNN, 4M)",JPEG Compression,mel,Melanoma,0.5432,0.048,49.5
+"EfficientNetB0 (CNN, 4M)",JPEG Compression,nv,Melanocytic Nevi,0.8973,0.6615,23.6
+"EfficientNetB0 (CNN, 4M)",JPEG Compression,vasc,Vascular Lesions,0.8372,0.024,81.3
+"ViT-B/16 (Transformer, 86M)",Gaussian Noise,akiec,Actinic Keratoses,0.5678,0.053,51.5
+"ViT-B/16 (Transformer, 86M)",Gaussian Noise,bcc,Basal Cell Carcinoma,0.7257,0.4372,28.9
+"ViT-B/16 (Transformer, 86M)",Gaussian Noise,bkl,Benign Keratosis,0.6897,0.4088,28.1
+"ViT-B/16 (Transformer, 86M)",Gaussian Noise,df,Dermatofibroma,0.461,0.3788,8.2
+"ViT-B/16 (Transformer, 86M)",Gaussian Noise,mel,Melanoma,0.5633,0.0926,47.1
+"ViT-B/16 (Transformer, 86M)",Gaussian Noise,nv,Melanocytic Nevi,0.9131,0.785,12.8
+"ViT-B/16 (Transformer, 86M)",Gaussian Noise,vasc,Vascular Lesions,0.85,0.1392,71.1
+"ViT-B/16 (Transformer, 86M)",Gaussian Blur,akiec,Actinic Keratoses,0.5678,0.0768,49.1
+"ViT-B/16 (Transformer, 86M)",Gaussian Blur,bcc,Basal Cell Carcinoma,0.7257,0.0877,63.8
+"ViT-B/16 (Transformer, 86M)",Gaussian Blur,bkl,Benign Keratosis,0.6897,0.0358,65.4
+"ViT-B/16 (Transformer, 86M)",Gaussian Blur,df,Dermatofibroma,0.461,0.3399,12.1
+"ViT-B/16 (Transformer, 86M)",Gaussian Blur,mel,Melanoma,0.5633,0.0235,54.0
+"ViT-B/16 (Transformer, 86M)",Gaussian Blur,nv,Melanocytic Nevi,0.9131,0.8274,8.6
+"ViT-B/16 (Transformer, 86M)",Gaussian Blur,vasc,Vascular Lesions,0.85,0.6996,15.0
+"ViT-B/16 (Transformer, 86M)",Resolution Downsampling,akiec,Actinic Keratoses,0.5678,0.0,56.8
+"ViT-B/16 (Transformer, 86M)",Resolution Downsampling,bcc,Basal Cell Carcinoma,0.7257,0.0398,68.6
+"ViT-B/16 (Transformer, 86M)",Resolution Downsampling,bkl,Benign Keratosis,0.6897,0.0419,64.8
+"ViT-B/16 (Transformer, 86M)",Resolution Downsampling,df,Dermatofibroma,0.461,0.2796,18.1
+"ViT-B/16 (Transformer, 86M)",Resolution Downsampling,mel,Melanoma,0.5633,0.0,56.3
+"ViT-B/16 (Transformer, 86M)",Resolution Downsampling,nv,Melanocytic Nevi,0.9131,0.8173,9.6
+"ViT-B/16 (Transformer, 86M)",Resolution Downsampling,vasc,Vascular Lesions,0.85,0.7007,14.9
+"ViT-B/16 (Transformer, 86M)",JPEG Compression,akiec,Actinic Keratoses,0.5678,0.0516,51.6
+"ViT-B/16 (Transformer, 86M)",JPEG Compression,bcc,Basal Cell Carcinoma,0.7257,0.2073,51.8
+"ViT-B/16 (Transformer, 86M)",JPEG Compression,bkl,Benign Keratosis,0.6897,0.2638,42.6
+"ViT-B/16 (Transformer, 86M)",JPEG Compression,df,Dermatofibroma,0.461,0.1978,26.3
+"ViT-B/16 (Transformer, 86M)",JPEG Compression,mel,Melanoma,0.5633,0.0959,46.7
+"ViT-B/16 (Transformer, 86M)",JPEG Compression,nv,Melanocytic Nevi,0.9131,0.8289,8.4
+"ViT-B/16 (Transformer, 86M)",JPEG Compression,vasc,Vascular Lesions,0.85,0.3761,47.4
+"ViT-S/16 (Transformer, 22M)",Gaussian Noise,akiec,Actinic Keratoses,0.5489,0.0413,50.8
+"ViT-S/16 (Transformer, 22M)",Gaussian Noise,bcc,Basal Cell Carcinoma,0.7329,0.3924,34.0
+"ViT-S/16 (Transformer, 22M)",Gaussian Noise,bkl,Benign Keratosis,0.6998,0.4689,23.1
+"ViT-S/16 (Transformer, 22M)",Gaussian Noise,df,Dermatofibroma,0.4751,0.1479,32.7
+"ViT-S/16 (Transformer, 22M)",Gaussian Noise,mel,Melanoma,0.5741,0.051,52.3
+"ViT-S/16 (Transformer, 22M)",Gaussian Noise,nv,Melanocytic Nevi,0.915,0.8507,6.4
+"ViT-S/16 (Transformer, 22M)",Gaussian Noise,vasc,Vascular Lesions,0.8504,0.0518,79.9
+"ViT-S/16 (Transformer, 22M)",Gaussian Blur,akiec,Actinic Keratoses,0.5489,0.0452,50.4
+"ViT-S/16 (Transformer, 22M)",Gaussian Blur,bcc,Basal Cell Carcinoma,0.7329,0.0321,70.1
+"ViT-S/16 (Transformer, 22M)",Gaussian Blur,bkl,Benign Keratosis,0.6998,0.0043,69.6
+"ViT-S/16 (Transformer, 22M)",Gaussian Blur,df,Dermatofibroma,0.4751,0.2477,22.7
+"ViT-S/16 (Transformer, 22M)",Gaussian Blur,mel,Melanoma,0.5741,0.0189,55.5
+"ViT-S/16 (Transformer, 22M)",Gaussian Blur,nv,Melanocytic Nevi,0.915,0.8232,9.2
+"ViT-S/16 (Transformer, 22M)",Gaussian Blur,vasc,Vascular Lesions,0.8504,0.5982,25.2
+"ViT-S/16 (Transformer, 22M)",Resolution Downsampling,akiec,Actinic Keratoses,0.5489,0.0,54.9
+"ViT-S/16 (Transformer, 22M)",Resolution Downsampling,bcc,Basal Cell Carcinoma,0.7329,0.0,73.3
+"ViT-S/16 (Transformer, 22M)",Resolution Downsampling,bkl,Benign Keratosis,0.6998,0.0086,69.1
+"ViT-S/16 (Transformer, 22M)",Resolution Downsampling,df,Dermatofibroma,0.4751,0.2222,25.3
+"ViT-S/16 (Transformer, 22M)",Resolution Downsampling,mel,Melanoma,0.5741,0.0,57.4
+"ViT-S/16 (Transformer, 22M)",Resolution Downsampling,nv,Melanocytic Nevi,0.915,0.8125,10.3
+"ViT-S/16 (Transformer, 22M)",Resolution Downsampling,vasc,Vascular Lesions,0.8504,0.5512,29.9
+"ViT-S/16 (Transformer, 22M)",JPEG Compression,akiec,Actinic Keratoses,0.5489,0.0806,46.8
+"ViT-S/16 (Transformer, 22M)",JPEG Compression,bcc,Basal Cell Carcinoma,0.7329,0.1791,55.4
+"ViT-S/16 (Transformer, 22M)",JPEG Compression,bkl,Benign Keratosis,0.6998,0.233,46.7
+"ViT-S/16 (Transformer, 22M)",JPEG Compression,df,Dermatofibroma,0.4751,0.2234,25.2
+"ViT-S/16 (Transformer, 22M)",JPEG Compression,mel,Melanoma,0.5741,0.1142,46.0
+"ViT-S/16 (Transformer, 22M)",JPEG Compression,nv,Melanocytic Nevi,0.915,0.8096,10.5
+"ViT-S/16 (Transformer, 22M)",JPEG Compression,vasc,Vascular Lesions,0.8504,0.243,60.7
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Noise,akiec,Actinic Keratoses,0.5575,0.0,55.8
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Noise,bcc,Basal Cell Carcinoma,0.7199,0.112,60.8
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Noise,bkl,Benign Keratosis,0.6816,0.4001,28.2
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Noise,df,Dermatofibroma,0.4702,0.1386,33.2
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Noise,mel,Melanoma,0.5909,0.0276,56.3
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Noise,nv,Melanocytic Nevi,0.9162,0.767,14.9
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Noise,vasc,Vascular Lesions,0.8953,0.0247,87.1
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Blur,akiec,Actinic Keratoses,0.5575,0.252,30.6
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Blur,bcc,Basal Cell Carcinoma,0.7199,0.0496,67.0
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Blur,bkl,Benign Keratosis,0.6816,0.0841,59.8
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Blur,df,Dermatofibroma,0.4702,0.3393,13.1
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Blur,mel,Melanoma,0.5909,0.0315,55.9
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Blur,nv,Melanocytic Nevi,0.9162,0.8369,7.9
+"ViT-Ti/16 (Transformer, 5.7M)",Gaussian Blur,vasc,Vascular Lesions,0.8953,0.6603,23.5
+"ViT-Ti/16 (Transformer, 5.7M)",Resolution Downsampling,akiec,Actinic Keratoses,0.5575,0.0,55.8
+"ViT-Ti/16 (Transformer, 5.7M)",Resolution Downsampling,bcc,Basal Cell Carcinoma,0.7199,0.0076,71.2
+"ViT-Ti/16 (Transformer, 5.7M)",Resolution Downsampling,bkl,Benign Keratosis,0.6816,0.0,68.2
+"ViT-Ti/16 (Transformer, 5.7M)",Resolution Downsampling,df,Dermatofibroma,0.4702,0.1515,31.9
+"ViT-Ti/16 (Transformer, 5.7M)",Resolution Downsampling,mel,Melanoma,0.5909,0.0,59.1
+"ViT-Ti/16 (Transformer, 5.7M)",Resolution Downsampling,nv,Melanocytic Nevi,0.9162,0.8259,9.0
+"ViT-Ti/16 (Transformer, 5.7M)",Resolution Downsampling,vasc,Vascular Lesions,0.8953,0.6245,27.1
+"ViT-Ti/16 (Transformer, 5.7M)",JPEG Compression,akiec,Actinic Keratoses,0.5575,0.0199,53.8
+"ViT-Ti/16 (Transformer, 5.7M)",JPEG Compression,bcc,Basal Cell Carcinoma,0.7199,0.2023,51.8
+"ViT-Ti/16 (Transformer, 5.7M)",JPEG Compression,bkl,Benign Keratosis,0.6816,0.2554,42.6
+"ViT-Ti/16 (Transformer, 5.7M)",JPEG Compression,df,Dermatofibroma,0.4702,0.1447,32.6
+"ViT-Ti/16 (Transformer, 5.7M)",JPEG Compression,mel,Melanoma,0.5909,0.2189,37.2
+"ViT-Ti/16 (Transformer, 5.7M)",JPEG Compression,nv,Melanocytic Nevi,0.9162,0.8095,10.7
+"ViT-Ti/16 (Transformer, 5.7M)",JPEG Compression,vasc,Vascular Lesions,0.8953,0.275,62.0
